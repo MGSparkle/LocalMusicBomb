@@ -1,5 +1,5 @@
-# -
-🎧 Local Simple Music Player
+# 🎧 Local Simple Music Player
+
 A super lightweight, clean local music player ~Only plays music stored on your computer, secure and friendly to use ✨
 🌟 Features
 ✅ Local playback, no internet required✅ Clean dark theme, easy on the eyes✅ Adjustable playback speed & progress drag✅ Double-click to play, simple operation
