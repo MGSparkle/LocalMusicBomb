@@ -1,0 +1,22 @@
+# PyInstaller
+build/
+dist/
+*.spec.bak
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# 虚拟环境
+simple_env/
+venv/
+env/
+ENV/
+
+# 其他临时文件
+*.log
+.DS_Store
+Thumbs.db
