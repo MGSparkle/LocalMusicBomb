@@ -1,12 +1,11 @@
 # 🎧 Local Simple Music Player
 
 A super lightweight, clean local music player ~Only plays music stored on your computer, secure and friendly to use ✨
-🌟 Features
-✅ Local playback, no internet required✅ Clean dark theme, easy on the eyes✅ Adjustable playback speed & progress drag✅ Double-click to play, simple operation
-📦 Requirements
-Python 3.x
-PyQt5
-🎮 How to Use
+#🌟 Features
+✅ Local playback, no internet required
+✅ Clean dark theme, easy on the eyes
+✅ Adjustable playback speed & progress drag
+#🎮 How to Use
 Click Add Music to select audio files
 import songs in the list to play
 Adjust playback position with the progress bar
